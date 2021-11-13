@@ -8,7 +8,7 @@
 - SSD: NVME PNY 256GB
 - Audio: Realtek ALC897
 - LAN : Realtek RTL8125b
-- OpenCore Version: 0.7.5
+- OpenCore Version: 0.7.6
 - SMBIOS: iMacPro1,1
 
 **What's working**
