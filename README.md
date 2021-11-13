@@ -1,5 +1,5 @@
 **My Build**
-- OS: MacOS Big Sur 11.6
+- OS: MacOS Big Sur 11.6.1 (20G224)
 - CPU: Intel Core i3-10105F
 - MB: MSI B560M A PRO
 - RAM: 2x4GB DDR4 @3067MHz
