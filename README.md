@@ -21,6 +21,7 @@
 
 **What's not working**
 - imessage
+- Apple TV
 
 **References:**
 - https://dortania.github.io
