@@ -2,7 +2,7 @@
 - OS: MacOS Big Sur 11.6.1 (20G224)
 - CPU: Intel Core i3-10105F
 - MB: MSI B560M A PRO
-- RAM: Crucial 2x4GB 2400Mhz DDR4 @3333MHz
+- RAM: Klevv Bolt X 2x8GB DDR4 @4000MHz
 - iGPU: -
 - dGPU: Nvidia Geforce GT635 
 - SSD: NVME PNY 256GB
