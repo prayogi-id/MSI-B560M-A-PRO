@@ -8,6 +8,7 @@
 - SSD: NVME PNY 256GB
 - Audio: Realtek ALC897
 - LAN : Realtek RTL8125b
+- Bluetooth : Tp-link UB400
 - OpenCore Version: 0.8.6
 - SMBIOS: iMacPro1,1
 
@@ -17,6 +18,7 @@
 - Sapphire Nitro+ RX 580
 - Audio
 - Ethernet
+- Bluetooth
 - All USB Port
 
 **What's not working**
